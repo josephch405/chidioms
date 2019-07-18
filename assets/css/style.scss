@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+* {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+h1 {
+  font-size: 42px;
+}
+h3 {
+  font-size: 24px;
+  font-weight: 500;
+}
+#stamp_logo {
+  max-width: 200px;
+}
