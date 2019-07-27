@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chinese Idioms
-# email: support@chidioms.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Weekly Chinese Idioms
+email: josephch405@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Weekly Chinese Idioms
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chidioms.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
-author: chidioms.com
+author: Jo Chuang
 
 google_analytics: UA-85207771-9
 

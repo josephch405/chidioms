@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Posts
-permalink: /posts/
+title: Stories
+permalink: /stories/
 ---
 
 {% for post in site.posts %}
 
 ## [{{ post.title }}]({{ post.url }})
+
+{% if post.subtitle %}
+#### {{post.subtitle}}
+{% endif %}
 
 {{post.description}}
 
