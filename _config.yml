@@ -24,6 +24,8 @@ url: "https://www.chidioms.com" # the base hostname & protocol for your site, e.
 author: Jo Chuang
 
 google_analytics: UA-85207771-9
+disqus:
+  shortname: chidioms
 
 # Build settings
 markdown: kramdown
