@@ -3,17 +3,22 @@
 
 @import "{{ site.theme }}";
 
+// .page-content {
+//   padding: 20;
+// }
+
 * {
   font-family: "Times New Roman", Times, serif;
   color: black;
 }
 h1 {
-  font-size: 42px;
+  font-size: 32px;
+  font-weight: 700;
 }
 h3 {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 500;
 }
 #stamp_logo {
-  max-width: 200px;
+  max-width: 100px;
 }
