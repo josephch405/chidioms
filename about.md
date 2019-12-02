@@ -6,7 +6,8 @@ permalink: /about/
 
 Throughout Chinese history, a curious collection of idioms passed down through
 the generations. These four characters long phrases are called
-**成語 - Chéng Yǔ** - .
+**成語 - Chéng Yǔ**.
+
 Most of these were fairly straightforward, but some Chengyu have interesting
 stories: stories that are still alive today in Chinese and Taiwanese
 classrooms. They are even part of other Chinese-influenced cultures
