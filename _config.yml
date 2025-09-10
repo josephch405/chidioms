@@ -23,7 +23,7 @@ url: "https://www.chidioms.com" # the base hostname & protocol for your site, e.
 # github_username: jekyll
 author: Jo Chuang
 
-google_analytics: UA-85207771-9
+google_analytics: G-KE6078WCYS
 disqus:
   shortname: chidioms
 
